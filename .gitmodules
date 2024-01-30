@@ -5,3 +5,9 @@
 [submodule "server"]
     path = server
     url = https://github.com/Asifdecoder/data-visualiser-backend
+[submodule "data-visualiser-frontend"]
+	path = data-visualiser-frontend
+	url = https://github.com/Asifdecoder/data-visualiser-frontend
+[submodule "data-visualiser-backend"]
+	path = data-visualiser-backend
+	url = https://github.com/Asifdecoder/data-visualiser-backend
